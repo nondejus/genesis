@@ -1,7 +1,7 @@
 genesisgen
 ==========
 
-Deps on openssl cryptolib to compile
+Deps on openssl lcrypto to compile
 
 
 - Leave genesisblock.c to default to generate your own Block 0 hash
